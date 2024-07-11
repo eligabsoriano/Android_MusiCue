@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicCue</string>
+    <string name="introText"> Discover, Play, and Elevate Your Music Experience!</string>
+    <string name="introSubtitle"> The ultimate destination for all music enthusiasts!
+        This app is designed to bring you closer to the music you love. </string>
+    <string name="introSubtitle1">  Whether you\'re a casual listener, an aspiring musician, or a seasoned professional</string>
+    <string name="introSubtitle2"> This app is designed to bring you closer to the music you love. yogi ako</string>
+
+    <string name="registerBtn">Register Now!</string>
+
+    <string name="imageDescription">Description of the image</string>
+</resources>
